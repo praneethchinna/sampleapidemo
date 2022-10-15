@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+I have develeped this application using clean framework 0.4.1 which best freamework to maintain states or state managment
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
