@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-I have develeped this application using clean framework 0.4.1 which best freamework to maintain states or state managment
+I have develeped this application using clean framework 0.4.1 which is best for state managment 
 
 ## Getting Started
 
